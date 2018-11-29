@@ -6,7 +6,12 @@ html {
   position: absolute;
   top: 50px;
   right: 0;
+  bottom:100px;
 }
 
 /* Write your solution here */
-
+@media screen{
+#ostrich {
+  position:absolute;
+  
+}
